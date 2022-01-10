@@ -1,0 +1,5 @@
+require('kal/telescope')
+require('kal/lualine')
+require('kal/gitsigns')
+require('kal/lsp')
+require('kal/treesitter')
