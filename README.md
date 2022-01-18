@@ -18,6 +18,7 @@ Central repo to all my configuration files
     - .config               #
         - nvim              #
         - fish              #
+        - kitty             #
     - .zshrc                # old, mostly use fish now
 ```
 
